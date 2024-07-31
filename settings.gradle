@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AView"
+rootProject.name = "ify"
 include ':app'
